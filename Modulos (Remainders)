@@ -1,0 +1,7 @@
+<?php
+// Write your code below:
+
+$students = 82; 
+$groups = 6;
+
+echo 82 % 6;
